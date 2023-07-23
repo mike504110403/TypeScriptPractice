@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "es2020", // 輸出js版本
+        "outDir": "./dist",
+        "rootDir": "./src",
+        "sourceMap": true // 原始碼對照表
+        //"noEmitOnError": true // ts出錯時不翻成js
+    }
+}
